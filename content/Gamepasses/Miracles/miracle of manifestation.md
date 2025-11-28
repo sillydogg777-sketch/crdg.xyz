@@ -11,7 +11,8 @@
 > 
 > ### Gamepass info
 > 
-> | Cost | Off Sale (Previous 600) |
+> | Cost | On
+>  Sale (Previous 600) |
 > | --- | --- |
 > | Gives | Manifests invenotry |
 
