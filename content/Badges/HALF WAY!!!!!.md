@@ -26,6 +26,6 @@
 > | Type | Main |
 > | --- | --- |
 > | **Requirements** | - None! |
-> | **Reward(s)** | - None. |
+> | **Reward(s)** | - Glue. |
 
 This badge can be obtained by getting to [[Dealership]] by any means.
